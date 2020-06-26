@@ -1,0 +1,1 @@
+[{"id":"ea03257d.e06ec8","type":"function","z":"7759d3a0.77097c","name":"welcome message","func":"msg.payload=\"Optimized Warehouse Management Of Perishable Goods For A Food Delivery Company\";\nreturn msg;","outputs":1,"noerr":0,"x":470,"y":220,"wires":[["d6479177.b8b51"]]}]
