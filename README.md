@@ -3,7 +3,7 @@ This project belong to Team-VVS.
 
 Copying or Plagiarism is strictly prohibited.
 
-All Project Files Google Drive Links Has Been Given.Access will be made public From 10-07-2020.
+All Project Files Google Drive Links Has Been Given.Access will be made public From 10th July, 2020.
 
 Team Members:-
 Venkata Gunasekhar V (Team Lead),
