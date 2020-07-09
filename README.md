@@ -12,6 +12,7 @@
 - [Future Scope](#future-scope)
 - [Bibliography](#bibliography)
 - [Team Members](#team-members)
+- [Screenshot](#screenshots)
 
 ##
 ## Introduction
@@ -61,3 +62,24 @@ Machine Learning can predict future weather patterns at the local level and iden
 
 ## Team Members
 | Venkata Gunasekhar V (Team Lead) | Shaama M | Vinay Krishna |
+
+## Screenshots
+
+### Home
+![home](https://github.com/SmartPracticeschool/SBSPS-Challenge-3270-Optimized-Warehouse-Management-of-Perishable-Goods-for-a-Food-Delivery-Company/blob/master/screenshots/Capture%20home.JPG)
+### Register
+![register](https://github.com/SmartPracticeschool/SBSPS-Challenge-3270-Optimized-Warehouse-Management-of-Perishable-Goods-for-a-Food-Delivery-Company/blob/master/screenshots/Capture%20register.JPG)
+### Login
+![login](https://github.com/SmartPracticeschool/SBSPS-Challenge-3270-Optimized-Warehouse-Management-of-Perishable-Goods-for-a-Food-Delivery-Company/blob/master/screenshots/Capture%20login.JPG)
+### Menu
+![menu](https://github.com/SmartPracticeschool/SBSPS-Challenge-3270-Optimized-Warehouse-Management-of-Perishable-Goods-for-a-Food-Delivery-Company/blob/master/screenshots/Capture%20menu.JPG)
+### ui
+![ui](https://github.com/SmartPracticeschool/SBSPS-Challenge-3270-Optimized-Warehouse-Management-of-Perishable-Goods-for-a-Food-Delivery-Company/blob/master/screenshots/Capture%20ui.JPG)
+### Forecast
+![forecast](https://github.com/SmartPracticeschool/SBSPS-Challenge-3270-Optimized-Warehouse-Management-of-Perishable-Goods-for-a-Food-Delivery-Company/blob/master/screenshots/Capture%20onion%20forecast.JPG)
+### Prediction
+![prediction](https://github.com/SmartPracticeschool/SBSPS-Challenge-3270-Optimized-Warehouse-Management-of-Perishable-Goods-for-a-Food-Delivery-Company/blob/master/screenshots/Capture%20seasonal%20fruit%20prediction.JPG)
+### Nodered ml model prediction process
+![nodered](https://github.com/SmartPracticeschool/SBSPS-Challenge-3270-Optimized-Warehouse-Management-of-Perishable-Goods-for-a-Food-Delivery-Company/blob/master/screenshots/Capture%20nodered%20ML%20prediction%20process.JPG)
+### Alternate model
+![model](https://github.com/SmartPracticeschool/SBSPS-Challenge-3270-Optimized-Warehouse-Management-of-Perishable-Goods-for-a-Food-Delivery-Company/blob/master/screenshots/Capture%20prediction%20model.JPG)
