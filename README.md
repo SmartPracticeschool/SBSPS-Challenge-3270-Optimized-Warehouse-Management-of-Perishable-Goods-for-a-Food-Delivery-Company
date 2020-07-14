@@ -47,18 +47,23 @@ The growing demand of Machine Learning (ML) and Artificial Intelligence (AI) in 
 Fortunately for demand planners, ML can now help further improve the forecast from 40% of actual to 70% of actual. 
 Machine Learning can predict future weather patterns at the local level and identify how it connects to local demand patterns. Machine Learning can also determine if a lag exists between the weather changes and the demand of products on a real-time basis. The life cycle of a product plays a critical role in demand forecasting.
 
+## Project Links
+- [App Url](https://node-red-gfbxa.eu-gb.mybluemix.net/ui)
+- Video Demonstration 
+  - [Link 1](https://drive.google.com/file/d/1-x9b0ZhFeK4yQYpe82NG8qHbuL7FZIwd/view?usp=sharing)
+  - [Link 2](https://drive.google.com/drive/folders/1z3xauVWF3LvPS6yR7BoEpefzL6hNAsxW?usp=sharing)
+- [Json Code](https://github.com/SmartPracticeschool/SBSPS-Challenge-3270-Optimized-Warehouse-Management-of-Perishable-Goods-for-a-Food-Delivery-Company/tree/master/json%20code)
+- [Screen Shots](https://github.com/SmartPracticeschool/SBSPS-Challenge-3270-Optimized-Warehouse-Management-of-Perishable-Goods-for-a-Food-Delivery-Company/tree/master/screenshots)
+- [Drive Link](https://drive.google.com/drive/folders/1n2vmTSpFe24HFhJfsiQ8heLByoHg4e9T?usp=sharing)
+
 ## Bibliography
 - Data Collected from:
-  - Statistics:Price and Arrival Statistics- http://nhb.gov.in/statistics/price-arrival-statistics.html(http://nhb.gov.in/statistics/price-arrival-statistics.html)
-  - Open Government Data Platform (OGD) India is a single-point of access to Datasets/Apps in open format published by Ministries/Departments : https://data.gov.in/(https://data.gov.in/)
-- Storage : https://www.cloud.ibm.com(https://www.cloud.ibm.com)
-- Machine learning:
-  - https://en.wikipedia.org/wiki/Machine_learning(https://en.wikipedia.org/wiki/Machine_learnin)
-  - https://www.ibm.com/in-en/analytics/machine-learning(https://www.ibm.com/in-en/analytics/machine-learning)
-- Watson Studio:https://www.ibm.com/in-en/cloud/watson-studio(https://www.ibm.com/in-en/cloud/watson-studio)
-- Node-RED:
-  - https://en.wikipedia.org/wiki/Node-RED(https://en.wikipedia.org/wiki/Node-RED)
-  - https://nodered.org/(https://nodered.org/)
+  - [Statistics:Price and Arrival Statistics](http://nhb.gov.in/statistics/price-arrival-statistics.html)
+  - [Open Government Data Platform (OGD) India is a single-point of access to Datasets/Apps in open format published by Ministries/Departments](https://data.gov.in/)
+- [IBM Cloud Storage](https://www.cloud.ibm.com)
+- [Machine learning](https://en.wikipedia.org/wiki/Machine_learnin)
+- [Watson Studio](https://www.ibm.com/in-en/cloud/watson-studio)
+- [Node-RED](https://nodered.org/)
 
 ## Team Members
 | Venkata Gunasekhar V (Team Lead) | Shaama M | Vinay Krishna |
