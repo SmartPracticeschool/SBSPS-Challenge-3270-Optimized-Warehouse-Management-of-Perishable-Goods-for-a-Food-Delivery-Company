@@ -10,6 +10,7 @@
 - [Applications](#applications)
 - [Conclusion](#conclusion)
 - [Future Scope](#future-scope)
+- [Project Links](#project-links)
 - [Bibliography](#bibliography)
 - [Team Members](#team-members)
 - [Screenshot](#screenshots)
