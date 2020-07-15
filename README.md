@@ -53,6 +53,7 @@ Machine Learning can predict future weather patterns at the local level and iden
 - Video Demonstration 
   - [Link 1](https://drive.google.com/file/d/1-x9b0ZhFeK4yQYpe82NG8qHbuL7FZIwd/view?usp=sharing)
   - [Link 2](https://drive.google.com/drive/folders/1z3xauVWF3LvPS6yR7BoEpefzL6hNAsxW?usp=sharing)
+- [Presentation](https://drive.google.com/file/d/1qq0t-HluJT-Qf6kGC5eO-dPltJUAfUW1/view?usp=sharing)
 - [Json Code](https://github.com/SmartPracticeschool/SBSPS-Challenge-3270-Optimized-Warehouse-Management-of-Perishable-Goods-for-a-Food-Delivery-Company/tree/master/json%20code)
 - [Screen Shots](https://github.com/SmartPracticeschool/SBSPS-Challenge-3270-Optimized-Warehouse-Management-of-Perishable-Goods-for-a-Food-Delivery-Company/tree/master/screenshots)
 - [Drive Link](https://drive.google.com/drive/folders/1n2vmTSpFe24HFhJfsiQ8heLByoHg4e9T?usp=sharing)
